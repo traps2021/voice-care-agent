@@ -1,0 +1,13 @@
+{
+  "name": "voice-care-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node vapi-agent.js"
+  },
+  "dependencies": {
+    "@vapi-ai/sdk": "^0.2.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
